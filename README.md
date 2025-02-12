@@ -34,14 +34,14 @@ Implementation of a community detection algorithm for bipartite networks using m
 [PDF Report](assets/pdfs/Community Detection in Bipartite Networks.pdf)  
 [GitHub Repository](https://github.com/portmannh/SMA-Lboxd)
 
+
 ### Multimodal Text Editor
 Development of a multimodal text editor that integrates speech recognition and eye-tracking to assist individuals with motor disabilities in text input and formating
 - Text Editor Development: Building the original text editor based on an open-source project, adapting it for multimodal interaction
 - System Integration: Combined speech recognition,eye-tracking, and the text editor into a cohesive system, deployed via a Flask web application
 - User Testing & Evaluation: Coduction of usability text, collecting feedback for further improvements
 
-**Keywords:** multimodal system, text editor
-
+**Keywords:** multimodal integration, text editor, speech recognition, eye tracking
 
 [PDF Report](assets/pdfs/Building a Multimodal Text Editor MUI.pdf)  
 [GitHub Repository](https://github.com/portmannh/SR_Gaze_TextEditor)
