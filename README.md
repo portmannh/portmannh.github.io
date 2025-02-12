@@ -3,7 +3,7 @@
 
 
 ## Education
-- BSc Biomedical Science | University of Fribourg (_June 2022_)
+- BSc Biomedical Science, University of Fribourg (_2022_)
 
 ## My Projects
 
