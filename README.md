@@ -1,6 +1,8 @@
 # Master Student in Digital Neuoscience
 ## University of Fribourg
 
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/your-profile/)  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/hannah-portmann/)
 
 ## Education
 - BSc Biomedical Science, University of Fribourg (_2022_)
