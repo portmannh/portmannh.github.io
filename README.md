@@ -5,6 +5,8 @@
 ## Education
 - BSc Biomedical Science, University of Fribourg (_2022_)
 
+
+
 ## My Projects
 
 ### Analysing Data from Wearable and Nearable Sensors
@@ -32,3 +34,8 @@
 
 [PDF Report](assets/pdfs/Building a Multimodal Text Editor MUI.pdf)  
 [GitHub Repository](https://github.com/portmannh/SR_Gaze_TextEditor)
+
+
+## Certifications
+- Machine Learning Specialization (_DeepLerning.AI, Stanford University_)
+  [Certificate](assets/pdfs/Machine Learning Specialization.pdf)
