@@ -14,4 +14,4 @@
 
 
 ### Multimodal Text Editor
-[Report](https://github.com/portmannh/portfolio-pages/blob/main/assets/pdfs/Building%20a%20Multimodal%20Text%20Editor%20MUI.pdf)
+[View PDF](/assets/pdfs/Building%20a%20Multimodal%20Text%20Editor%20MUI.pdf)
