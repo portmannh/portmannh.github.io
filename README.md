@@ -15,4 +15,3 @@
 
 
 ### Multimodal Text Editor
-![Image](assets/img/Picture1.png)
