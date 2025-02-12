@@ -1,5 +1,5 @@
 # Master Student in Digital Neuoscience
-## Univeristy of Fribourg
+## University of Fribourg
 
 ## My Projects
 
