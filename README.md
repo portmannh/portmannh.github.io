@@ -48,5 +48,7 @@ Development of a multimodal text editor that integrates speech recognition and e
 
 
 ## Certifications
-- Machine Learning Specialization (_DeepLerning.AI, Stanford University_)
+- Machine Learning Specialization (_DeepLearning.AI, Stanford University_)
   [Certificate](assets/pdfs/Machine Learning Specialization.pdf)
+- Deep Learning Specialization (_DeepLearning.AI_)
+  [Certificate](assets/pdfs/Deep Learning Specialization.pdf) 
