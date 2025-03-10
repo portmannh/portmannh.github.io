@@ -1,4 +1,15 @@
 title: Hannah Portmann
+description: "Machine Learning & Data Science Portfolio"
 logo: /assets/img/circle_img.png
 theme: jekyll-theme-minimal
-linkedin: https://www.linkedin.com/in/hannah-portmann/
+
+# Navigation Menu
+header_pages:
+  - about.md
+  - skills.md
+  - portfolio.md
+
+# Social Links
+social_links:
+  - { platform: "github", user_url: "https://github.com/portmannh"}
+  - { platform: "linkedin", user_url: "https://www.linkedin.com/in/hannah-portmann/"}
