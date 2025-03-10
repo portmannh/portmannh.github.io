@@ -32,3 +32,5 @@ layout: default
 🔗 [View on GitHub](https://github.com/your-repo-link)  
 
 ![Text Editor UI](assets/images/text_editor_ui.png)
+
+[⬅️ Back to Home](index.md)
