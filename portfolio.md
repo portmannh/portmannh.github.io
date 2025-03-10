@@ -8,7 +8,7 @@ layout: default
 ## Analysing Data from Wearable and Nearable Sensors  
 **Goal:** Compare the performance of wearable and nearable sensors against EMG signals to assess their reliability in detecting motor activity during sleep.  
 📌 **Tech Used:** Python, NumPy, Pandas, Matplotlib, Seaborn, MNE  
-📌 **Outcome:** Performed cross-correlation analysis and visualized the relationship between wearable/nearable sensors and EMF signals, providing insights into sensor reliability for motor activity detection.  
+📌 **Outcome:** Performed cross-correlation analysis and visualized the relationship between wearable/nearable sensors and EMG signals, providing insights into sensor reliability for motor activity detection.  
 🔗 [View on GitHub](https://github.com/portmannh/data-analysis-biosensors)  
 🔗 [PDF Report](assets/pdfs/Comparing Wearable and Nearable Sensors Versus Polysomnography for Sleep Motor Activity Detection.pdf)  
 
