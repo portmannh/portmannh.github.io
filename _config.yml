@@ -5,6 +5,7 @@ theme: jekyll-theme-minimal
 
 # Navigation Menu
 header_pages:
+  - index.md
   - about.md
   - skills.md
   - portfolio.md
