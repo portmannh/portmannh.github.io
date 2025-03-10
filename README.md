@@ -1,5 +1,5 @@
 # Master Student in Digital Neuoscience
-## University of Fribourg
+# at University of Fribourg
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/hannah-portmann/)
 
