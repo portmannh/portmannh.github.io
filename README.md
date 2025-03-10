@@ -19,6 +19,8 @@ Analysis of sleep activity data from 71 patients using Python, focusing on compa
 
 **Keywords:** time-series analysis, signal processing, signal alignment
 
+![Signal Visualization](assets/img/output.png)
+
 
 [PDF Report](assets/pdfs/Comparing Wearable and Nearable Sensors Versus Polysomnography for Sleep Motor Activity Detection.pdf)  
 [GitHub Repository](https://github.com/portmannh/data-analysis-biosensors)
