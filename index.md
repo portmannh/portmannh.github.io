@@ -12,4 +12,4 @@ My research focuses on **automatic sleep staging** and **regression and classifi
 
 📌 [About Me](about.md) | [Technical Skills](skills.md) | [Portfolio](portfolio.md)  
 
-📫 **Contact Me:** [portmannhanna@gmail.com](mailto:portmannhannah@gmail.com)
+📫 **Contact Me:** [portmannhannah@gmail.com](mailto:portmannhannah@gmail.com)
