@@ -8,7 +8,10 @@ layout: default
 ## **Programming & Tools**
 - Python (TensorFlow, NumPy, Pandas, Scikit-Learn)
 - MATLAB  
-- Jupyter Notebooks, Git, LaTeX  
+- Jupyter Notebooks
+- Git
+- LaTeX
+- R 
 
 ## **Machine Learning**
 - Supervised & Unsupervised Learning  
@@ -18,5 +21,11 @@ layout: default
 ## **Other Skills**
 - Signal Processing  
 - Data Visualization (Matplotlib, Seaborn)  
+
+## Certifications
+- Machine Learning Specialization (_DeepLearning.AI, Stanford University_)
+  [Certificate](assets/pdfs/Machine Learning Specialization.pdf)
+- Deep Learning Specialization (_DeepLearning.AI_)
+  [Certificate](assets/pdfs/Deep Learning Specialization.pdf) 
 
 [⬅️ Back to Home](index.md)
