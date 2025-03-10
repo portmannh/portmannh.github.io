@@ -5,32 +5,34 @@ layout: default
 
 # 💼 Portfolio  
 
-## 🧠 Brain Age Prediction from EEG Data  
-**Goal:** Develop a deep learning model to predict brain age using EEG recordings.  
-📌 **Tech Used:** Python, TensorFlow, PyTorch, NumPy, Pandas  
-📌 **Outcome:** Achieved state-of-the-art accuracy in brain age estimation.  
-🔗 [View on GitHub](https://github.com/your-repo-link)  
+## Analysing Data from Wearable and Nearable Sensors  
+**Goal:** Compare the performance of wearable (Empatica E4) and nearable (Emfit QS) sensors against EMG signals from polysomnography (PSG) to assess their reliability in detecting motor activity during sleep.
+📌 **Tech Used:** Python, NumPy, Pandas, Matplotlib, Seaborn, MNE  
+📌 **Outcome:** reprocessed and aligned sensor data, performed cross-correlation analysis, and visualized the relationship between wearable/nearable sensors and PSG signals, providing insights into sensor reliability for motor activity detection.  
+🔗 [View on GitHub](https://github.com/portmannh/data-analysis-biosensors)
+[PDF Report](assets/pdfs/Comparing Wearable and Nearable Sensors Versus Polysomnography for Sleep Motor Activity Detection.pdf)  
 
-![EEG Analysis](assets/images/brain_age_plot.png)
+![Signal Visualization](assets/img/output.png)
 
 ---
 
-## 📊 Community Detection in Movie Networks  
+## Community Detection in Bipartite Movie Networks  
 **Goal:** Implemented a bipartite network analysis on Letterboxd user-movie data.  
-📌 **Tech Used:** NetworkX, Python, Pandas, Gephi  
-📌 **Outcome:** Identified significant user clusters based on movie preferences.  
-🔗 [View on GitHub](https://github.com/your-repo-link)  
+📌 **Tech Used:** NetworkX, Python, Pandas  
+📌 **Outcome:** Implemented bilouvain algorithm and visualized found communities of users and movies    
+🔗 [View on GitHub](https://github.com/portmannh/SMA-Lboxd)  
+[PDF Report](assets/pdfs/Community Detection in Bipartite Networks.pdf)  
 
-![Network Visualization](assets/images/movie_network.png)
 
 ---
 
-## 📝 Multimodal Text Editor with Eye-Tracking  
+## Multimodal Text Editor with Eye-Tracking  
 **Goal:** Developed an editor integrating speech-to-text and eye-tracking for accessibility.  
-📌 **Tech Used:** Python, React, Flask, OpenCV  
+📌 **Tech Used:** Python, Flask, OpenCV  
 📌 **Outcome:** Created a functional prototype improving accessibility for disabled users.  
-🔗 [View on GitHub](https://github.com/your-repo-link)  
+🔗 [View on GitHub](https://github.com/portmannh/SR_Gaze_TextEditor)  
+[PDF Report](assets/pdfs/Building a Multimodal Text Editor MUI.pdf)  
 
-![Text Editor UI](assets/images/text_editor_ui.png)
+
 
 [⬅️ Back to Home](index.md)
