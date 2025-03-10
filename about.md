@@ -5,18 +5,17 @@ layout: default
 
 # About Me  
 
-I am a **Digital Neuroscience Master’s student**, specializing in **machine learning for EEG analysis**.  
-My research focuses on **brain age prediction and cognitive health assessment** using AI.  
+I am a **Digital Neuroscience Master student**.
+My Master thesis research focuses on **brain age prediction and cognitive health assessment from sleep EEG** using AI.  
 
 ### 🔍 Research Interests:
-✔️ AI for Sleep & Cognitive Aging  
-✔️ EEG-based Machine Learning  
-✔️ Deep Learning on Physiological Signals  
+✔️ AI for Neuroscience
+✔️ Biosignal based Machine / Deep Learning   
 
 📍 **Location:** [Bern]  
-🎓 **University:** [University of Fribourg]  
-💡 **Looking for:** AI & Healthcare Opportunities  
+🎓 **University:** [University of Fribourg] [UPD Bern] 
+💡 **Looking for:** Job Opportunities in AI and Neuroscience
 
-Want to collaborate? **[Contact me](mailto:your.email@example.com)!**
+Want to collaborate? **[Contact me](mailto:hannah.portmann@unifr.ch)!**
 
 [⬅️ Back to Home](index.md)
