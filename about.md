@@ -18,3 +18,5 @@ My research focuses on **brain age prediction and cognitive health assessment** 
 💡 **Looking for:** AI & Healthcare Opportunities  
 
 Want to collaborate? **[Contact me](mailto:your.email@example.com)!**
+
+[⬅️ Back to Home](index.md)
