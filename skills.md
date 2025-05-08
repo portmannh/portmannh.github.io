@@ -6,7 +6,7 @@ layout: default
 # 🛠️ Technical Skills  
 
 ## **Programming & Tools**
-- Python (TensorFlow, NumPy, Pandas, Scikit-Learn)
+- Python (TensorFlow, NumPy, Pandas, Scikit-Learn, MNE)
 - MATLAB  
 - Jupyter Notebooks
 - Git
@@ -16,7 +16,7 @@ layout: default
 ## **Machine Learning**
 - Supervised & Unsupervised Learning  
 - Deep Learning (CNNs)  
-- Time Series Analysis (EEG)  
+- Time Series Analysis (EEG, EMG)  
 
 ## **Other Skills**
 - Signal Processing  
