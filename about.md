@@ -9,7 +9,7 @@ I am a **Digital Neuroscience Master student**.
 My Master thesis research focuses on **brain age prediction and cognitive health assessment from sleep EEG** using AI.  
 
 ### 🔍 Research Interests:
-✔️ AI for Clinical or Biomedical Research
+✔️ AI for Clinical or Biomedical Research  
 ✔️ Biosignal based Machine / Deep Learning   
 
 📍 **Location:** Bern, Switzerland 
