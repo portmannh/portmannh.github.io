@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Hi, I'm Hannah Portmann 👋  
-_Neuroscience, Data Science and Machine Learning / AI Enthusiast_
+_Neuroscience, Biomedical Science, Data Science and Machine Learning / AI Enthusiast_
 
 I am a Master’s student in **Digital Neuroscience** at the University of Fribourg.
 I am currently working my Master thesis on **brain age prediction using EEG data** at the UPD in Bern.  
