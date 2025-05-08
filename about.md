@@ -12,9 +12,9 @@ My Master thesis research focuses on **brain age prediction and cognitive health
 ✔️ AI for Clinical or Biomedical Research
 ✔️ Biosignal based Machine / Deep Learning   
 
-📍 **Location:** [Bern]  
-🎓 **University:** [University of Fribourg] [UPD Bern]  
-💡 **Looking for:** PhD Opportunities in AI and Neuroscience
+📍 **Location:** Bern, Switzerland 
+🎓 **University:** University of Fribourg, UPD Bern
+💡 **Looking for:** PhD Opportunities in AI and Clinical Research
 
 Want to collaborate? **[Contact me](mailto:hannah.portmann@unifr.ch)!**
 
