@@ -4,10 +4,25 @@
 
 ## Education
 - BSc Biomedical Science, University of Fribourg (_2022_)
+- spMSc Digital Neuroscience, University of Fribourg (_2025_)
 
 
 
 ## My Projects
+
+### Brain Age Prediction from Sleep Electrophysiology Using Foundation Model Principles (Master Thesis)  
+Development of brain age prediction model from two sleep datasets including EEG, EOG, and EMG in two steps: sleep scoring pretext task, using features from pretext task for downstream brain age prediction tasks
+- Data Preparation: Preparing electrophysiological data for input into TensorFlow pipeline
+- Model Development and Training: Implementing and training sleep scoring convolutional neural network using TensorFlow and brain age prediction models using scikit-learn
+- Visualization: Visualizing learning curves and results
+
+**Keywords**: CNN, regression models, pretext and downstream task, feature extraction
+
+![Signal Visualization](assets/img/model_architecture.png)
+
+
+[PDF Report](assets/pdfs/MasterThesis_HannahPortmann.pdf)  
+[GitHub Repository](https://github.com/portmannh/brain-age-from-sleep)
 
 ### Analysing Data from Wearable and Nearable Sensors  
 Analysis of sleep activity data from 71 patients using Python, focusing on comparing wearable (Empatica E4 wristband) and nearable (Emfit QS bed sensors) devices against electromyography (EMG) from polysomnography (PSG) measurements
