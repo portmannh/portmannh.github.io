@@ -6,13 +6,13 @@ layout: default
 # 💼 Portfolio  
 
 ## Brain Age Prediction from Sleep Electrophysiology Using Foundation Model Principles (Master Thesis) 
-**Goal:** Develop a model to predict brain age from sleep electrophysiology using a pretext and downstream task.
-📌 **Tech Used:** Python, MNE, TensorFlow, Keras, scikit-learn, Seaborn
-📌 **Outcome:** Developed and trained a well performing sleep scoring pretext task model, used features from pretext task to implement and test multiple different brain age prediction regression models with limited performance, also tried to predict cognitive status from pretext task features, visualized learning curves and model outcomes
-🔗 [View on GitHub](https://github.com/portmannh/brain-age-from-sleep)  
-🔗 [PDF Report](assets/pdfs/MasterThesis_HannahPortmann.pdf)  
+**Goal:** Develop a model to predict brain age from sleep electrophysiology using a pretext and downstream task.  
+📌 **Tech Used:** Python, MNE, TensorFlow, Keras, scikit-learn, Seaborn  
+📌 **Outcome:** Developed and trained a well performing sleep scoring pretext task model, used features from pretext task to implement and test multiple different brain age prediction regression models with limited performance, also tried to predict cognitive status from pretext task features, visualized learning curves and model outcomes  
+🔗 [View on GitHub](https://github.com/portmannh/brain-age-from-sleep)    
+🔗 [PDF Report](assets/pdfs/MasterThesis_HannahPortmann.pdf)    
 
-![Signal Visualization](assets/img/model_architecture.png)
+![Signal Visualization](assets/img/model_architecture.png)  
 
 ---
 
